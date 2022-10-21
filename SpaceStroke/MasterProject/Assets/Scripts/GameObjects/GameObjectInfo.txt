@@ -1,0 +1,4 @@
+All GameObjects must have an x and y varible
+All GameObjects must have an array of components
+All GameObjects must have an AddComponent function
+All GameObjects must have a Draw() method
